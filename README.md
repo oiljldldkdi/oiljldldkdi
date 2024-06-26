@@ -1,13 +1,29 @@
-# Hi there, I'm Eunjin Kim! 👋❤️
-
+<div align=center>
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hi there, I'm Eunjin Kim! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
 ![Header Image](cat.png)
 
-## About Me
 
-안녕하세요! 저는 김은진입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="25" height="25" />. 소프트웨어 개발자이자 열정적인 문제 해결사입니다. 다양한 기술과 도구를 사용하여 혁신적인 솔루션을 만드는 것을 즐깁니다. 제 GitHub 프로필에 오신 것을 환영합니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="25" height="25" />
 
-## Skills
+
+  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="25" height="25" /> About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="25" height="25" />
+안녕하세요! 저는 김은진입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="25" height="25" />.
+</div>
+  <div align=center>
+소프트웨어 개발자이자 열정적인 문제 해결사입니다.
+  </div>
+  <div align=center>
+다양한 기술과 도구를 사용하여 혁신적인 솔루션을 만드는 것을 즐깁니다.
+  </div>
+  <div align=center>
+제 GitHub 프로필에 오신 것을 환영합니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="25" height="25" />
+
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="25" height="25" /> Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="25" height="25" />
+<div align=center>
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="2%" /> 내가 지금 배우는 언어는?
@@ -42,9 +58,10 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiljldldkdi%2Fhit-counter&count_bg=%2382CFED&title_bg=%235A7596&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </details>
+</div>
 
-## Project
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Project <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
 <details>
   <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="2%" /> 기숙사 관리 프로그램
@@ -67,24 +84,19 @@
 </details>
 
 
-
-## GitHub Stats & Most Used Languages
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats & Most Used Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
 ![Eunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=oiljldldkdi&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiljldldkdi)](https://github.com/anuraghazra/github-readme-stats)
 
-## Activity Graph
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Activity Graph <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oiljldldkdi&theme=tokyo-night)](https://github.com/oiljldldkdi/github-readme-activity-graph)
 
-## Contact
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Follow Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="25" height="25" /></h3>
-<p align="center">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Follow Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="25" height="25" />
   <a href="mailto:dmswls2833@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmswls2833@gmail.com"/></a>
   <a href="https://www.instagram.com/nlzlio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nlzlio/"/></a>
-  <a href=https://www.facebook.com/profile.php?id=100023840774024&locale=ko_KR/"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100023840774024&locale=ko_KR/"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100023840774024&locale=ko_KR/"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100023840774024&locale=ko_KR/"/></a>
+</div>
+
 
 ---
 
-*이 프로필은 [홍서빈](https://github.com/hsbbsh)이 ❤️를 담아 작성했습니다.*
