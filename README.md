@@ -1,20 +1,48 @@
 # Hi there, I'm Eunjin Kim! 👋❤️
 
 
-![Header Image](https://via.placeholder.com/800x200)
+![Header Image](cat.png)
 
 ## About Me
 
 안녕하세요! 저는 홍서빈입니다. 소프트웨어 개발자이자 열정적인 문제 해결사입니다. 다양한 기술과 도구를 사용하여 혁신적인 솔루션을 만드는 것을 즐깁니다. 제 GitHub 프로필에 오신 것을 환영합니다!
 
 ## Skills
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 언어는 ... 
+  
+</summary>
+   <br>
+  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+</details>
+
+<details>
+  <summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 나의 깃허브 방문자 수는?
+  
+</summary>
+   <br>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiljldldkdi%2Fhit-counter&count_bg=%2382CFED&title_bg=%235A7596&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</details>
+
+<details>
+  <summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 진행했던 프로젝트
+  
+</summary>
+<br>
+
+
+</details>
 
 ### Frameworks & Libraries
 
@@ -32,27 +60,11 @@
 
 ## Projects
 
-### [Project Name 1](https://github.com/yourusername/projectname1)
 
-- **Description:** 프로젝트 1에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: React, Node.js, MongoDB)
-- **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
-
-### [Project Name 2](https://github.com/yourusername/projectname2)
-
-- **Description:** 프로젝트 2에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: Python, Django, PostgreSQL)
-- **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
 
 ## GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ## Contact
 
